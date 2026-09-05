@@ -144,7 +144,7 @@ export default function Home() {
 
       <section className="profile-section" id="profile">
         <div className="profile-photo">
-          <img src={`${basePath}/images/profile-blue.jpg`} alt="両手を広げる塩澤ヒロシ" />
+          <img src={`${basePath}/images/profile-blue.jpg`} alt="両手を広げる塩澤ヒロシ" loading="lazy" decoding="async" />
           <span>PROFILE</span>
         </div>
         <div className="profile-content">
