@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tsuretaka.github.io/shiozawa-site/sitemap.xml
