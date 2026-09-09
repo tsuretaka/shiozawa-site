@@ -105,7 +105,7 @@ export default function Home() {
           </div>
         </div>
         <div className="hero-visual" aria-label="塩澤ヒロシの写真">
-          <img className="hero-kv" src={`${basePath}/images/hero-kv.png`} alt="西表島の海を背景にした塩澤ヒロシのキービジュアル" />
+          <img className="hero-kv" src={`${basePath}/images/hero-kv.jpg`} alt="西表島の海を背景にした塩澤ヒロシのキービジュアル" />
         </div>
       </section>
 
